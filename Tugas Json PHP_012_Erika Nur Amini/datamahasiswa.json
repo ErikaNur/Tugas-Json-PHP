@@ -1,0 +1,24 @@
+[
+  {
+    "nama": "Erika Nur Amini",
+    "nim": "20050974012",
+    "no_telepon": "085755351868",
+    "hobi": ["menulis", "membaca", "memasak"],
+    "riwayat_pendidikan": {
+      "SD": "SDN 4 BRONDONG",
+      "SMP": "SMPN 1 PACIRAN",
+      "SMA": "SMAN 1 BRONDONG"
+    }
+  },
+  {
+    "nama": "Adilla Dwi Prasetya",
+    "nim": "20050974064",
+    "no_telepon": "085630237554",
+    "hobi": ["melukis", "fotografi", "bernyanyi"],
+    "riwayat_pendidikan": {
+      "SD": "SDN 4 BRONDONG",
+      "SMP": "SMPN 1 PACIRAN",
+      "SMA": "SMAN 1 BRONDONG"
+    }
+  }
+]
